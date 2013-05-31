@@ -1,4 +1,5 @@
 WebDriverTest
 =============
 
-WebDriver
+WebDriver Test project
+including Sniffer, HttpListener, WebDriverExtension
