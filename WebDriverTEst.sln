@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sniffer", "Sniffer\Sniffer.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpListener", "HttpListener\HttpListener.csproj", "{E3439508-9F5E-4C9D-BA77-49B21F256598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAccessE1", "TestAccessE1\TestAccessE1.csproj", "{82265FA8-33E8-4BB7-9170-3D13F8CE955E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,16 @@ Global
 		{E3439508-9F5E-4C9D-BA77-49B21F256598}.Release|Mixed Platforms.Build.0 = Release|x86
 		{E3439508-9F5E-4C9D-BA77-49B21F256598}.Release|x86.ActiveCfg = Release|x86
 		{E3439508-9F5E-4C9D-BA77-49B21F256598}.Release|x86.Build.0 = Release|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Debug|x86.ActiveCfg = Debug|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Debug|x86.Build.0 = Debug|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Release|Any CPU.ActiveCfg = Release|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Release|x86.ActiveCfg = Release|x86
+		{82265FA8-33E8-4BB7-9170-3D13F8CE955E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
